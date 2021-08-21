@@ -5,4 +5,4 @@ edition = "2018"
 
 [dependencies]
 tui = "0.16.0"
-termion = "1.5.2"
+termion = "1.5.6"
