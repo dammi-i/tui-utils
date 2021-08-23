@@ -1,4 +1,6 @@
 #[allow(dead_code)]
+mod tui_utils;
+
 use std::io;
 use std::sync::mpsc;
 use std::thread;
